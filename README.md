@@ -1,9 +1,8 @@
 # Economic Researcher
 
 ### Education
-Brown University, BA Business Economics
-
-DePaul University, MS Economics and Quantitative Analysis
+- Brown University, BA Business Economics
+- DePaul University, MS Economics and Quantitative Analysis
 
 ### Work Experience
 Investment Sales Intern @ Fidelity Investments
