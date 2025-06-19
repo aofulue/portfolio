@@ -1,8 +1,9 @@
 # Economic Researcher
 
 ### Education
-Brown University, BA Business Economics (2023)
-DePaul University, MS Economics and Quantitative Analysis (2025)
+Brown University, BA Business Economics
+
+DePaul University, MS Economics and Quantitative Analysis
 
 ### Work Experience
 Investment Sales Intern @ Fidelity Investments
@@ -10,8 +11,8 @@ Investment Sales Intern @ Fidelity Investments
 - Info
 
 ### Projects
-- Kwiqbite
 - Labor Project
 - Arcos Project
+- Industrial Organizations Project
 
 ### More to add
