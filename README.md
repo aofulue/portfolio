@@ -1,4 +1,4 @@
-# Economic Researcher
+# Aspiring Research Analyst
 
 ### Education
 - Brown University, BA Business Economics
