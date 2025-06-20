@@ -13,7 +13,7 @@ Investment Sales Intern @ Fidelity Investments
 - Participated in workshops on Equities, International Markets, Fixed Income, Bond Funds, ETFs, and IRAs
 
 ### Languages
-Stata, R, JMP, SQL
+Stata, R, SQL
 
 ### Projects
 - Labor Project
