@@ -12,6 +12,9 @@ Investment Sales Intern @ Fidelity Investments
 - Shadowed Investment Sales Associates on calls and meetings, learning about the Investment Sales Desk
 - Participated in workshops on Equities, International Markets, Fixed Income, Bond Funds, ETFs, and IRAs
 
+### Languages
+Stata, R, JMP, SQL
+
 ### Projects
 - Labor Project
 - Arcos Project
